@@ -1,0 +1,14 @@
+C:\Systems\C#\MSpec\MSpec\bin\Debug\Mono.Cecil.dll
+C:\Systems\C#\MSpec\MSpec\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Systems\C#\MSpec\MSpec\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Systems\C#\MSpec\MSpec\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Systems\C#\MSpec\MSpec\bin\Debug\Machine.TestAdapter.dll
+C:\Systems\C#\MSpec\MSpec\bin\Debug\MSpec.dll
+C:\Systems\C#\MSpec\MSpec\bin\Debug\MSpec.pdb
+C:\Systems\C#\MSpec\MSpec\bin\Debug\Machine.Specifications.dll
+C:\Systems\C#\MSpec\MSpec\bin\Debug\Machine.Specifications.Should.dll
+C:\Systems\C#\MSpec\MSpec\obj\Debug\MSpec.csprojResolveAssemblyReference.cache
+C:\Systems\C#\MSpec\MSpec\obj\Debug\MSpec.csproj.CoreCompileInputs.cache
+C:\Systems\C#\MSpec\MSpec\obj\Debug\MSpec.csproj.CopyComplete
+C:\Systems\C#\MSpec\MSpec\obj\Debug\MSpec.dll
+C:\Systems\C#\MSpec\MSpec\obj\Debug\MSpec.pdb
